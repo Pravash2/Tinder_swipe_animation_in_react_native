@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "tinder-swipe",
+    "slug": "tinder-swipe-card-animation",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Tinder Card Swipe animation using react native",
+    "githubUrl": "https://github.com/Pravash2/Tinder_swipe_animation_in_react_native.git"
+  }
+}
